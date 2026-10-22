@@ -13,3 +13,4 @@ jobs:
       - uses: ansible/dvcs-action@4f8696a8670ad9c5e92c9866106a0c8bb58b507b # AAP-95746
         with:
           allow_no_jira: true
+
